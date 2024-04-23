@@ -1,0 +1,129 @@
+[
+    {
+      "scenario": "CPR for adult",
+      "description": "Cardiopulmonary resuscitation (CPR) is an emergency procedure performed to manually preserve brain function until further measures are taken to restore spontaneous blood circulation and breathing in a person who is in cardiac arrest. This scenario covers CPR steps for an adult individual.",
+      "recommendations": [
+        "Check for responsiveness.",
+        "Call emergency services (e.g., 911).",
+        "Perform chest compressions at a rate of 100-120 compressions per minute.",
+        "Give rescue breaths if trained to do so.",
+        "Continue until help arrives or the person shows signs of life."
+      ],
+      "notes": "Ensure the scene is safe before starting CPR. Follow the guidelines provided by medical authorities."
+    },
+    {
+      "scenario": "Choking in infants",
+      "description": "Choking occurs when a foreign object becomes lodged in the throat or windpipe, blocking the flow of air. This scenario covers first aid steps for choking in infants.",
+      "recommendations": [
+        "Assess the situation quickly but calmly.",
+        "If the infant is coughing forcefully, encourage them to keep coughing.",
+        "If the infant is not able to cough, perform back blows and chest thrusts.",
+        "Continue until the object is dislodged or emergency help arrives."
+      ],
+      "notes": "Be gentle yet firm when performing back blows and chest thrusts on an infant. Seek medical attention if the object is not removed."
+    },
+    {
+      "scenario": "Treating a minor burn",
+      "description": "Minor burns can result from contact with hot objects, liquids, or chemicals. This scenario covers first aid steps for treating minor burns.",
+      "recommendations": [
+        "Cool the burn under cool, running water for at least 10-20 minutes.",
+        "Remove any clothing or jewelry from the affected area, if possible.",
+        "Cover the burn with a sterile gauze or non-adhesive bandage.",
+        "Monitor for signs of infection and seek medical attention if necessary."
+      ],
+      "notes": "Do not use ice or butter on burns as they can further damage the skin. Seek medical help for burns that are severe or cover a large area."
+    },
+    {
+      "scenario": "Snake bite",
+      "description": "Snake bites can inject venom into the body, causing various symptoms and complications. This scenario covers first aid steps for snake bites.",
+      "recommendations": [
+        "Move away from the snake to avoid further bites.",
+        "Keep the affected limb immobilized and at or below heart level.",
+        "Clean the bite area with soap and water.",
+        "Apply a sterile bandage or cloth to reduce swelling.",
+        "Seek immediate medical attention."
+      ],
+      "notes": "Do not apply a tourniquet or attempt to suck out the venom. Identify the snake if possible for medical treatment."
+    },
+    {
+      "scenario": "Heart attack",
+      "description": "A heart attack occurs when blood flow to the heart muscle is blocked, leading to tissue damage. This scenario covers first aid steps for a suspected heart attack.",
+      "recommendations": [
+        "Call emergency services (e.g., 911) immediately.",
+        "Have the person sit or lie down in a comfortable position.",
+        "Give aspirin if available and not allergic.",
+        "Monitor the person's vital signs and provide reassurance."
+      ],
+      "notes": "Stay with the person until help arrives. Do not give food or drink unless advised by medical professionals."
+    },
+    {
+      "scenario": "Severe allergic reaction (Anaphylaxis)",
+      "description": "Anaphylaxis is a severe allergic reaction that can be life-threatening. This scenario covers first aid steps for anaphylaxis.",
+      "recommendations": [
+        "Administer epinephrine (EpiPen) if available and prescribed.",
+        "Call emergency services (e.g., 911) immediately.",
+        "Help the person sit or lie down comfortably.",
+        "Monitor their breathing and vital signs."
+      ],
+      "notes": "Stay with the person and keep them calm. Be prepared to perform CPR if necessary."
+    },
+    {
+        "scenario": "Drowning",
+        "description": "Drowning is a critical situation where a person's airway becomes blocked with water, preventing them from breathing. This scenario covers first aid steps for drowning victims.",
+        "recommendations": [
+          "Check the scene for safety before approaching the victim.",
+          "Call emergency services (e.g., 911) immediately.",
+          "Remove the victim from the water if it's safe to do so.",
+          "Check for responsiveness and start CPR if the victim is unresponsive and not breathing.",
+          "Continue CPR until help arrives or the victim starts breathing on their own."
+        ],
+        "notes": "Do not delay in calling for help. Follow proper CPR guidelines for drowning victims. Consider using an automated external defibrillator (AED) if available."
+      },
+      {
+        "scenario": "Electric Shock (Domestic)",
+        "description": "Electric shock can occur when a person comes into contact with an electrical source, leading to potentially serious injuries. This scenario covers first aid steps for domestic electric shock incidents.",
+        "recommendations": [
+          "Ensure your own safety by switching off the power source or using a non-conductive object to move the victim away from the electrical source.",
+          "Call emergency services (e.g., 911) immediately.",
+          "Check the victim for responsiveness and breathing. Perform CPR if necessary.",
+          "Do not touch the victim directly if they are still in contact with the electrical source. Use a dry, non-metallic object to separate them from the source.",
+          "Monitor the victim's condition and provide reassurance until help arrives."
+        ],
+        "notes": "Do not attempt to rescue the victim if the area is still hazardous. Avoid touching the victim with bare hands if they are still in contact with electricity."
+      },
+      {
+        "scenario": "Choking",
+        "description": "Choking occurs when a person's airway becomes blocked, typically by food or a foreign object, preventing them from breathing properly. This scenario covers first aid steps for choking incidents.",
+        "recommendations": [
+          "Assess the situation quickly but calmly.",
+          "Encourage the person to cough if they can.",
+          "Perform back blows and abdominal thrusts (Heimlich maneuver) if the person cannot cough or speak.",
+          "Continue back blows and abdominal thrusts until the object is dislodged or emergency help arrives."
+        ],
+        "notes": "Be prepared to perform CPR if the person becomes unresponsive. If the person is pregnant or obese, modify the back blows and abdominal thrusts accordingly."
+      },
+      {
+        "scenario": "Fracture",
+        "description": "A fracture is a broken bone that can result from various injuries or accidents. This scenario covers first aid steps for treating fractures.",
+        "recommendations": [
+          "Assess the area for signs of a fracture, such as pain, swelling, and deformity.",
+          "Immobilize the affected limb or area to prevent further movement and reduce pain.",
+          "Apply a cold compress or ice pack wrapped in a cloth to reduce swelling and pain.",
+          "Keep the person calm and reassured while waiting for medical help to arrive."
+        ],
+        "notes": "Do not attempt to realign the bone or apply pressure directly on the fracture. Avoid moving the person unnecessarily, especially if there is suspicion of a spinal injury."
+      },
+      {
+        "scenario": "Minor Cuts",
+        "description": "Minor cuts are small wounds on the skin's surface that can result from various injuries or accidents. This scenario covers first aid steps for treating minor cuts.",
+        "recommendations": [
+          "Clean the cut gently with mild soap and water to remove dirt and debris.",
+          "Apply pressure with a clean cloth or bandage to stop any bleeding.",
+          "Cover the cut with an adhesive bandage or sterile gauze to protect it from dirt and infection.",
+          "Change the bandage daily and monitor the cut for signs of infection, such as redness, swelling, or pus."
+        ],
+        "notes": "Use antiseptic ointment or cream on the cut if recommended. Seek medical attention if the cut is deep, wide, or shows signs of infection."
+      }
+      
+  ]
+  
